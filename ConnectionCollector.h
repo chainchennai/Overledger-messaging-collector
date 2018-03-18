@@ -1,7 +1,7 @@
 /*
  * ConnectionCollector.h
  *
- *  Created on: Aug 30, 2012
+ *  Created on: Aug 30, 2017
  *      Author: admin
  */
 
